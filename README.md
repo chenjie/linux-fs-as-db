@@ -1,5 +1,5 @@
 # linux-fs-as-db
-[![GitHub license](https://img.shields.io/github/license/jellycsc/multi-player-word-guessing-game.svg)](https://github.com/jellycsc/multi-player-word-guessing-game/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/jellycsc/linux-fs-as-db.svg)](https://github.com/jellycsc/linux-fs-as-db/blob/master/LICENSE)
 
 An animal guessing game/script.
 
