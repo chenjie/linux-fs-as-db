@@ -41,6 +41,7 @@ Does it have leaves?
 What would be the answer for a tree?
 y
 I'll remember that.
+
 $ sh animal.sh db
 Think of an animal.
 Is your animal green?
