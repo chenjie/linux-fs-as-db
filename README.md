@@ -18,7 +18,7 @@ $ cd ~
 
 # Clone this repo and 'cd' into it
 $ git clone https://github.com/jellycsc/linux-fs-as-db.git
-$ cd mlinux-fs-as-db/
+$ cd linux-fs-as-db/
 ```
 
 ## Usage
